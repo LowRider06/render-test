@@ -1,0 +1,21 @@
+{
+  "persons": [
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "number": "sdd",
+      "important": true,
+      "id": 8
+    },
+    {
+      "name": "",
+      "number": "",
+      "important": true,
+      "id": "24db03d0-3f48-4be2-b1b9-37c934bbc27d"
+    }
+  ]
+}
